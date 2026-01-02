@@ -12,12 +12,15 @@ Atualmente trabalho como Pesquisador no Instituto IDados, desenvolvendo avaliaç
 - Economia da Educação
 
 ## 📂 Projetos em Destaque
+
 ### 🔹 [Reconhecimento Facial](https://github.com/matheusgomessousa/Portifolio-v2/tree/main/Reconhecimento%20Facial)
 Nesse projeto implementei um modelo que reconhece a pessoa (já previamente cadastrada) através da sua imagem.
 
-### 🔹 [Otimização de Semáforos com IA](https://github.com/seu-usuario/seu-repo)
-Sistema inteligente para sincronização de semáforos urbanos, reduzindo congestionamentos e melhorando o tráfego.
+### 🔹 [Tranferência de Estilo](https://github.com/matheusgomessousa/Portifolio-v2/tree/main/Transfer-Style-main)
+Projeto que implementa o algoritmo de **Neural Style Transfer**, geranddo uma nova imagem que combina o conteúdo de uma imagem com o estilo visual de outra.
 
+### 🔹 [Captando Informações](https://github.com/matheusgomessousa/Portifolio-v2/tree/main/Named-Entity-Recognition-main)
+Projeto que implementa **Named-Entity Recognition** para identificar algumas informações de um resumo pessoal, como nome, e-mail, cargo, Escolaridade, Habilidades, entre outros.
 
 ## 📫 Contato
 - 📧 Email: matheusgomessousa@gmail.com
